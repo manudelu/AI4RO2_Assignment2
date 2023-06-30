@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -std=gnu++11  -O3 -DNDEBUG -rdynamic CMakeFiles/VisitMain.dir/main.cpp.o -o VisitMain  -Wl,-rpath,/home/manudelu/Desktop/AIRO2_SecondAssignment-main/visits_module/build libVisits.so 
