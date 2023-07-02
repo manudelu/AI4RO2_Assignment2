@@ -23,7 +23,7 @@ git clone https://github.com/claudioDema99/AIRO2_SecondAssignment.git
 
 You can already find the planner inside the `visit_domain` folder. 
 
-Note: If needed change the permissions of **popf3-clp** by using the following command in the terminal: 
+**_Note_**: If needed change the permissions of _**popf3-clp**_ by using the following command in the terminal: 
 
 ```bash
 chmod +x popf3-clp
