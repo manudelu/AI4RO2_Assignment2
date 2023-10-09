@@ -18,7 +18,7 @@ To begin, please refer to the following GitHub repository for the installation o
 After installing the popf-tif planner, proceed by cloning the repository:
 
 ```bash
-git clone https://github.com/claudioDema99/AIRO2_SecondAssignment.git
+git clone https://github.com/manudelu/AI4RO2_Assignment2.git
 ```
 
 You can already find the planner inside the `visit_domain` folder. 
